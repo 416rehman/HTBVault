@@ -1,0 +1,283 @@
+{
+  "strategy": "default",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Tab",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "Ctrl/Cmd+Enter",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": true,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "Notes/",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": false,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": true,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "Battlecry": {
+      "Battlecry": {
+        "internalLink": {
+          "count": 4,
+          "lastUpdated": 1677301052021
+        }
+      }
+    },
+    "Rune": {
+      "Rune": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1677301141957
+        }
+      }
+    },
+    "Ability": {
+      "Ability": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1677301008437
+        }
+      }
+    },
+    "Talent": {
+      "Talent": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1677298791232
+        }
+      }
+    },
+    "Resilience": {
+      "Resilience": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1677298135328
+        }
+      }
+    },
+    "Endurance": {
+      "Endurance": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1677298137744
+        }
+      }
+    },
+    "items": {
+      "items": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1677298829332
+        }
+      }
+    },
+    "ITEMS": {
+      "ITEMS": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1677298843786
+        }
+      }
+    },
+    "Item": {
+      "Item": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1677302191752
+        }
+      }
+    },
+    "CalculatedAttribute": {
+      "CalculatedAttribute": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1677300958884
+        }
+      }
+    },
+    "InstigatorItemDmg": {
+      "InstigatorItemDmg": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677300696419
+        }
+      }
+    },
+    "BaseAttribute": {
+      "BaseAttribute": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677300979665
+        }
+      }
+    },
+    "Perks": {
+      "Perks": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1677301058190
+        }
+      }
+    },
+    "return": {
+      "return": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677303052587
+        }
+      }
+    },
+    "CriticalHitChance": {
+      "CriticalHitChance": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1677305484859
+        }
+      }
+    },
+    "ScaleToStrength": {
+      "ScaleToStrength": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677303461856
+        }
+      }
+    },
+    "DmgMin": {
+      "DmgMin": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677303624935
+        }
+      }
+    },
+    "TryApplyCriticalDamage": {
+      "TryApplyCriticalDamage": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677303638244
+        }
+      }
+    },
+    "ScaledHitDamage": {
+      "ScaledHitDamage": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677303642531
+        }
+      }
+    },
+    "mainAttributes": {
+      "mainAttributes": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677304144591
+        }
+      }
+    },
+    "LifeOnHit": {
+      "LifeOnHit": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677305470674
+        }
+      }
+    },
+    "LifeOnKill": {
+      "LifeOnKill": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677305477031
+        }
+      }
+    },
+    "CriticalHitDamage": {
+      "CriticalHitDamage": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677305490137
+        }
+      }
+    },
+    "Vitality": {
+      "Vitality": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677309591824
+        }
+      }
+    },
+    "LifeIncreasePerVitality": {
+      "LifeIncreasePerVitality": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677309597379
+        }
+      }
+    },
+    "DEFAULT": {
+      "DEFAULT": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677309705791
+        }
+      }
+    },
+    "Common": {
+      "Common": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1677623116087
+        }
+      }
+    },
+    "Regions": {
+      "Regions": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1679434786579
+        }
+      }
+    },
+    "Governments": {
+      "Governments": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1679437083130
+        }
+      }
+    }
+  }
+}
